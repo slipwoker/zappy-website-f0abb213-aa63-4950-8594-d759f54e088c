@@ -1,53 +1,43 @@
-# Ori Dahan and Daniel Dahan — Generative Engine Optimization Map
-
-> A ניהול משאבי אנוש business.
+# Business — Generative Engine Optimization Map
 
 ---
 
 ## Pages
 
 ### Home
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app
+https://example.com
 
 ### Services
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/services
+https://example.com/services
 
 ### How It Works
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/how-it-works
+https://example.com/how-it-works
 
 ### Contact
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/contact
+https://example.com/contact
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
 
 # Business Context (for LLM understanding)
 
-## About Ori Dahan and Daniel Dahan
-Ori Dahan and Daniel Dahan is a business in the ניהול משאבי אנוש industry.
-
-## Target Audience
-- בעלי עסקים קטנים
-
-## Industry
-ניהול משאבי אנוש
-
+## About Business
 ---
 
 # Additional Resources
 
-- **Sitemap**: https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/sitemap.xml
-- **Robots.txt**: https://ori-dahan-and-daniel-dahan-f0abb213.zappy5.app/robots.txt
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
